@@ -17,6 +17,6 @@ I used the BeautifulSoup4 and request modules to do the web scraping and retriev
 # Run the program
 
 - Once the requirements have been installed successfully you can run the tool simply by calling
-    - python gui.py
+    - python3 gui.py
 
 ![alt text](https://github.com/jasonc2901/eBay_deals_scraper/blob/master/screenshot.png?raw=true)
